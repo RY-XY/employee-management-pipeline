@@ -1,1 +1,3 @@
-This is an assignment replication based on django application.
+This is an assignment referenced based on django application.
+
+Original Author: https://github.com/omjogani/employee-management-django
